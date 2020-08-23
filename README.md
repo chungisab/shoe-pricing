@@ -1,2 +1,2 @@
 # shoes-prices
-Analyzing 10,000 women's shoes
+A detailed analysis of 10,000 women's shoes.
